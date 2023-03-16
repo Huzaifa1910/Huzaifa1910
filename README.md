@@ -21,4 +21,4 @@ When I'm not coding or studying, you can find me playing video games 🎮 or exp
 Feel free to check out my repositories and connect with me on social media! 😄👍
 
 ### Intro to GitHub
-Conducting Workshop on GitHub Purposes and other benefits.
+Conducting Workshop on GitHub Purposes and other benefit.
