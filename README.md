@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Huzaifa Ghori,
+# 👋 Hi there, I'm Muhammad Huzaifa Ghori,
 ### Who am I
 I'm a Front-end Web Developer with skills in HTML, CSS, and JavaScript. 🌐🎨💻 I'm also an aspiring Data Scientist, currently learning Python. 🐍 As a Microsoft Learn Student Ambassador, I'm passionate about sharing my knowledge with others and helping bridge the gap between academia and industry. 🤝🚀
 --------------------------                              ------------------------------
