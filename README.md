@@ -20,5 +20,11 @@ When I'm not coding or studying, you can find me playing video games 🎮 or exp
 ### Connect!
 Feel free to check out my repositories and connect with me on social media! 😄👍
 
-### Intro to GitHub
-Conducting Workshop on GitHub Purposes and other benefit.
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Huzaifa1910&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Huzaifa1910&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa1910&theme=tokyonight) |
+| -- | -- |
+
