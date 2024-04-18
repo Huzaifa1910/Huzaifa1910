@@ -12,6 +12,10 @@
 
 <h5 align="center">In addition to my academic pursuits, I'm the leader of the Microsoft Learn Students Ambassadors (MLSA) at my campus. Our vision is to provide students with the necessary resources to learn and grow in the field of Machine Learning. 🤖📚💡</h5>
 
+<h5 align="center">Checkout my MLSA profile at: \n <a href="[https://www.linkedin.com/in/huzaifa-ghori-2087771b3/](https://mvp.microsoft.com/en-US/studentambassadors/profile/28ec68ee-67f4-4e2b-88d3-c5435ec17abc)" target="_blank">
+    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)" height="40" alt="MICROSOFT logo"  />
+  </a></h5>
+
 ###
 
 <div align="center">
